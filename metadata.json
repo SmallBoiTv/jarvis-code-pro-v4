@@ -1,13 +1,13 @@
-﻿{
-    "backingModels":  [
-                          "kimi-k2.7-code"
-                      ],
-    "updatedAt":  1785526324104,
-    "description":  "Code Pro backed by Kimi K2.7-Code",
-    "baseModel":  "kimi-k2.7-code",
-    "modelId":  "jarvis-code-pro-v4",
-    "samplesCount":  0,
-    "name":  "Jarvis Code Pro V4",
-    "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785526324104
+{
+  "modelId": "jarvis-code-pro-v4",
+  "name": "Jarvis Code Pro V4",
+  "description": "Code Pro backed by Kimi K2.7-Code",
+  "baseModel": "kimi-k2.7-code",
+  "backingModels": [
+    "kimi-k2.7-code"
+  ],
+  "currentVersion": "jarvis-v1-1785600566650",
+  "lastSync": 1785600575813,
+  "samplesCount": 62,
+  "updatedAt": 1785600575813
 }
